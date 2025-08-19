@@ -22,6 +22,6 @@ int main(void){
 	 }
 	
 	else{
-		return printf("Penis");
+		return printf("Erro");
 	}
 }
